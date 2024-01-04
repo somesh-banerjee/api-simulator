@@ -1,0 +1,14 @@
+{
+  "name": "api-simulator",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Somesh Banerjee <54861461+somesh-banerjee@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module",
+    "scripts": {
+        "start": "node server.js"
+    },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
