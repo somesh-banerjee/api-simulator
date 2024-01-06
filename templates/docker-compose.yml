@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  api-simulator:
+    container_name: api-simulator
+    build: .
+    ports:
+      - 3333:3333
+    volumes:
+      - ./endpoints.js:/app/endpoints.js
