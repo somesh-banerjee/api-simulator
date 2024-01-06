@@ -1,6 +1,6 @@
 {
-  "name": "api-simulator",
-  "version": "1.0.0",
+  "name": "create-api-simulator",
+  "version": "1.0.1",
   "author": "Somesh Banerjee <54861461+somesh-banerjee@users.noreply.github.com>",
   "license": "MIT",
   "bin": {
