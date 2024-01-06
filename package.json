@@ -1,9 +1,19 @@
 {
   "name": "create-api-simulator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Somesh Banerjee <54861461+somesh-banerjee@users.noreply.github.com>",
   "license": "MIT",
   "bin": {
     "create-api-simulator": "./bin/create-api-simulator.js"
-  }
+  },
+  "description": "Create a mock API server for your front-end development",
+  "keywords": [
+    "rest",
+    "api",
+    "mock",
+    "server",
+    "simulator",
+    "development",
+    "testing"
+  ]
 }
